@@ -1,10 +1,16 @@
-# Mémo et activités PHP
-Le but est de revoir l'utilisation des différents éléments du langage dans des cas concrets.
+# Rappel PHP
 
-C'est un complément de cours sur PHP.
+Lors de la prairie nous avons vu du PHP. Pour vous rafraichir la mémoire je vous propose de suivre ce [petit tuto](https://www.smashingmagazine.com/2010/04/php-what-you-need-to-know-to-play-with-the-web/)
 
-## Sommaire
+# Exercices
 
-1. Conditions
-2. Array
-3. Boucles
+Faites les activités qui se trouvent dans les dossiers **conditions**,**array** et **boucles**.
+
+Dans ces dossiers, vous aurez dans un premier temps des exemples et des explications, puis des activités.
+
+Vous reconnaitrez les activités car ils débutent après :
+```php
+/*###############################################*/
+/*################# ACTIVITÉS ###################*/
+/*###############################################*/
+```
